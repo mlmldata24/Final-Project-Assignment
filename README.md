@@ -1,23 +1,17 @@
 ## MS263: Data Analysis Techniques in Marine Science
 ### Final project timeline
 
-* April 16 - Project description (2 page written document describing scientific question and plan for analysis, no code)
-* May 7 - Project draft (graded only on reproducibility, feedback given on all aspects)
-* May 14 - Individual meetings with instructor & project feedback
-* May 21 - Final project due, presentations (finals week)
+* April 14 - Project description (2 page written document describing scientific question and plan for analysis, no code)
+* May 5 - Project draft (graded only on reproducibility, feedback given on all aspects)
+* May 12 - Individual meetings with instructor & project feedback
+* May 19 - Final project due, presentations (finals week)
 
 ### Final project description
 
 ##### Project components:
 The final project git repository should contain:
-1.	README.md file describing:
-  *	Steps needed to run the analysis code on another computer
-  *	Location of data and acknowledgement of source
-  *	Dependencies
-  *	Location of data in repository, or how to access data
-2.  Python tools
-  * A .py file (or files) that containing useful functions for analysis
-3.	Jupyter notebook (like a paper, but with code showing analysis)
+
+1.	Jupyter notebook (like a paper, but with code showing analysis)
   * See this [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) guide for tips on formatting markdown cells with headers, links, images and equations. This markdown syntax can also be used to format your README.md file.
   * The Jupyter notebook should have the following sections:
     *	Introduction
@@ -26,6 +20,14 @@ The final project git repository should contain:
     *	Conclusions
     *	Ideas for future work
     * References
+2.	README.md file describing:
+  *	Steps needed to run the analysis code on another computer
+  *	Location of data and acknowledgement of source
+  *	Dependencies
+  *	Location of data in repository, or how to access data
+3.  Python tools
+  * A .py file (or files) that containing useful functions for analysis
+
 
 ##### Submission format:
 *	Git repository (see above)
