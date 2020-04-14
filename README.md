@@ -1,7 +1,7 @@
 ## MS263: Data Analysis Techniques in Marine Science
 ### Final project timeline
 
-* April 14 - Project description (2 page written document describing scientific question and plan for analysis, no code)
+* April 21 - Project description (2 page written document describing scientific question and plan for analysis, no code)
 * May 5 - Project draft (graded only on reproducibility, feedback given on all aspects)
 * May 12 - Individual meetings with instructor & project feedback
 * May 19 - Final project due, presentations (finals week)
