@@ -1,10 +1,10 @@
 ## MS263: Data Analysis Techniques in Marine Science
 ### Final project timeline
 
-* April 21 - Project description (2 page written document describing scientific question and plan for analysis, no code)
-* ~May 5~  Friday, May 8 - Project draft (graded only on reproducibility, feedback given on all aspects)
-* May 12 - Individual meetings with instructor & project feedback
-* May 19 - Final project due, presentations (finals week)
+* April 13 - Preliminary analysis due (part of HW6)
+* May 4 - Informal progress report due (part of HW7)
+* May 11 - Project draft (graded only on reproducibility, feedback given on all aspects)
+* May 25 - Final project due, presentations (finals week)
 
 ### Final project description
 
