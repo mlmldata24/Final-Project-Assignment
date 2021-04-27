@@ -2,7 +2,6 @@
 ### Final project timeline
 
 * April 13 - Preliminary analysis due (part of HW6)
-* May 4 - Informal progress report due (part of HW7)
 * May 11 - Project draft (graded only on reproducibility, feedback given on all aspects)
 * May 25 - Final project due, presentations (finals week)
 
