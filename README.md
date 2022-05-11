@@ -30,7 +30,7 @@ The final project git repository should contain:
 
 ##### Submission format:
 *	Git repository (see above)
-*	Presentation: 15 minutes + time for questions. Same sections as notebook except for code. References do not need to be in separate slide.
+*	Presentation: 12 minutes + time for questions. Same sections as notebook except for code. References do not need to be in separate slide.
 
 ##### Grading criteria:
 1.	Reproducibility – another person should be able to run your code, and understand how it works [10 points]
