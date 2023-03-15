@@ -1,7 +1,8 @@
 ## MS263: Data Analysis Techniques in Marine Science
 ### Final project timeline
 
-* April 13 - Preliminary analysis due (part of HW6)
+* April 6 - Preliminary analysis due (part of HW6)
+* April 27 - In-class progress update (part of HW7)
 * May 4 - Project draft (graded only on reproducibility, feedback given on all aspects)
 * May 18 - Final project due, presentations (finals week)
 
@@ -30,7 +31,7 @@ The final project git repository should contain:
 
 ##### Submission format:
 *	Git repository (see above)
-*	Presentation: 12 minutes + time for questions. Same sections as notebook except for code. References do not need to be in separate slide.
+*	Presentation: 15 minutes + time for questions. Same sections as notebook except for code. References do not need to be in separate slide.
 
 ##### Grading criteria:
 1.	Reproducibility – another person should be able to run your code, and understand how it works [10 points]
